@@ -1,6 +1,6 @@
 # TUTORIAL 8
 
-Reflection
+## Reflection
 
 1. How many data your publlsher program will send to the message broker in one
 run? 
@@ -12,3 +12,7 @@ run?
 program, what does it mean?
 
     - The URL is indeed the same in both publisher and subscriber. this means that both program are connected to the same AMQP server instances running on the local machine. They also used the same credentials to authenticate with the server and communicate over the AMQP port, enabling communication between the two components.
+
+## Preparing Message Broker(RabbitMQ)
+
+![Preparing RabbitMQ](/static/Screenshot1.jpg)
