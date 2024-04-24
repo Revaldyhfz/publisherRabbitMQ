@@ -22,4 +22,7 @@ program, what does it mean?
 ![Publisher](/static/Screenshot2.jpg)
 ![RabbitMQ](/static/Screenshot3.jpg)
 
+3. Monitoring chart based on publisher
+![ChartMonitor](/static/Screenshot4.jpg)
+
 
