@@ -15,4 +15,11 @@ program, what does it mean?
 
 ## Preparing Message Broker(RabbitMQ)
 
+1. Successfully Run RabbitMQ
 ![Preparing RabbitMQ](/static/Screenshot1.jpg)
+
+2. Sending and Processing Event
+![Publisher](/static/Screenshot2.jpg)
+![RabbitMQ](/static/Screenshot3.jpg)
+
+
